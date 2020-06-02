@@ -140,6 +140,6 @@ In runtime Gedatsu hooking console log and format it to human readable about Aut
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
 
-  spec.ios.deployment_target     = '11.0'
+  spec.ios.deployment_target     = '9.0'
   spec.swift_version = '5.2'
 end
